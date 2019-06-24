@@ -1,4 +1,3 @@
-HelenaMieszczak.github.io
 
 girls.js
 
